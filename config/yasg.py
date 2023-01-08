@@ -7,7 +7,7 @@ schema_view = get_schema_view(
     openapi.Info(
         title="Mountain API",
         default_version='v1',
-        description="Test description",
+        description="Стажировка SkillFactory(Федерации спортивного туризма России)",
         contact=openapi.Contact(email="caramba.ge@yandex.ru"),
         license=openapi.License(name="Caramba"),
     ),
